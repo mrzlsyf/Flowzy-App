@@ -1,0 +1,5 @@
+0 Bunga Daisy
+1 Bunga Randa Tapak
+2 Bunga Mawar
+3 Bunga Matahari
+4 Bunga Tulip
